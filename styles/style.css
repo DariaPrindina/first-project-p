@@ -315,7 +315,6 @@
 
 .footer__column_content_info {
   justify-content: flex-start;
-  align-items: flex-end;
 }
 
 .footer__column-heading  {
@@ -340,7 +339,6 @@
 
 .footer__column_content_social {
   justify-content: flex-start;
-  align-items: flex-end;
 }
 
 .footer__social-heading {
