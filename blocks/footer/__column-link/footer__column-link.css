@@ -4,6 +4,9 @@
   font-weight: normal;
   color: white;
   text-decoration: none;
+  transition-property: opacity;
+  transition-duration: 0.6s;
+  transition-timing-function: ease;
 }
 
 .footer__column-link:last-of-type {
@@ -12,7 +15,4 @@
 
 .footer__column-link:hover {
   opacity: 60%;
-  transition-property: opacity;
-  transition-duration: 0.6s;
-  transition-timing-function: ease;
 }
